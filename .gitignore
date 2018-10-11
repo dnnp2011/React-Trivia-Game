@@ -19,3 +19,13 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+# development notation
+*.notes.*
+*/*.notes.*
+*.dev.*
+*/*.dev.*
+
+* IDE files
+*.idea
+*/*.idea
